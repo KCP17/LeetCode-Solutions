@@ -5,9 +5,9 @@
 Basically just searching for the two smallest values in `prices`.
 
 # Approach
-Find the smallest value in the original `prices` list -> choco1_min
+Find the smallest value in the original `prices` list -> `choco1_min`
 Then remove that value in the list
-Find the smallest value in the modified list -> choco2_min
+Find the smallest value in the modified list -> `choco2_min`
 After finding those values, the remaining job is a piece of cake
 
 # Complexity
