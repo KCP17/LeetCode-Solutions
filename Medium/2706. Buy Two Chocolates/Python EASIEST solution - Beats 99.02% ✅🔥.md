@@ -1,5 +1,5 @@
 # Proof
-![leetcode_solution_buychoco.png](https://assets.leetcode.com/users/images/4df90dc2-4d18-447d-b90b-08f24ef51b8b_1703094264.7908518.png)
+![image](https://github.com/KCP17/Leetcode-solutions/assets/148914885/8381e5d7-2134-4d31-855a-daad3eb8f17c)
 
 # Intuition
 Basically just searching for the two smallest values in `prices`.
