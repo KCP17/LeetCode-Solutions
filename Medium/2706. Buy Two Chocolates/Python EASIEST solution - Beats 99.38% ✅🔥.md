@@ -16,7 +16,7 @@ After finding those values, the remaining job is a piece of cake
 - Space complexity: $O(1) - constant$
 
 # Code
-```python3 []
+```python []
 class Solution():
     def buyChoco(self, prices, money):
         
