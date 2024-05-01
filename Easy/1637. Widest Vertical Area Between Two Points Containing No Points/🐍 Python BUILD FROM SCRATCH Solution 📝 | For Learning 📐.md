@@ -23,7 +23,7 @@
 - Space complexity: $O(n)$
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 
-# Code
+# Code (Python)
 ```python []
 class Solution():
     def maxWidthOfVerticalArea(self, points):
