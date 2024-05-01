@@ -24,7 +24,7 @@
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 
 # Code
-```python3 []
+```python []
 class Solution():
     def maxWidthOfVerticalArea(self, points):
         x_cors = []
