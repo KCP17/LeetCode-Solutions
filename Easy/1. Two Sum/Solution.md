@@ -13,12 +13,12 @@ class Solution(object):
         Iterates through each number in the list
         With each number, find x so that: current_num + x = target
         """
-        #current + x = target
-        for i in range(len(nums)): #iterate through each number
-            x = target - nums[i] #x is the number to find
-            #if x exists in the list and its index is not the index of current_num
-            if x in nums and nums.index(x) != i: #index_of_x = nums.index(x)
-                return [i, nums.index(x)] #return index of current_num & index of x
+        # current + x = target
+        for i in range(len(nums)): # Iterate through each number
+            x = target - nums[i] # x is the number to find
+            # If x exists in the list and its index is not the index of current_num
+            if x in nums and nums.index(x) != i: # Index_of_x = nums.index(x)
+                return [i, nums.index(x)] # Return index of current_num & index of x
 ```
 ## Time & Space:
 * Time: $$O(n^2)$$
