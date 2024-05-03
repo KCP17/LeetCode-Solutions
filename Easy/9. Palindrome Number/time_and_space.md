@@ -7,6 +7,6 @@ class Solution:
         x = str(x)
         return True if x == ''.join(reversed(x)) else False
 ```
-## TIme & Space:
+## Time & Space:
 * Time: $$O(n)$$
 * Space: $$O(n)$$
