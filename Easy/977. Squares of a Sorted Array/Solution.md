@@ -9,5 +9,5 @@ class Solution:
 ```
 ## Note:
 My solution (effective but follow-up requirements unsatisfied):
-Time: $$O(N * log(N))$$
-Space: $$O(N)$$
+- Time: $$O(N * log(N))$$
+- Space: $$O(N)$$
