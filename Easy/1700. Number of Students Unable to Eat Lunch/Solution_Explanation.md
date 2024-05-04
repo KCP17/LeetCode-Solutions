@@ -1,4 +1,4 @@
-# 0ms - Beats 100% 🔥🔥🔥 | Python, C++ 💻 | EASY - CONSTANT Space - Clear explanation 📗
+# 0ms - Beats 100% 🔥🔥🔥 | Python, C++ 💻 | EASY - CONSTANT Space - Clear Explanation 📗
 ## 1. Proof
 <!-- Describe your first thoughts on how to solve this problem. -->
 ### 1.1. C ++
