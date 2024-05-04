@@ -41,5 +41,5 @@ class MyQueue:
 
 ## Note:
 Overthinking (my solution):
-- Time: O(1)
-- Space: O(n)
+- Time: $$O(1)$$
+- Space: $$O(n)$$
