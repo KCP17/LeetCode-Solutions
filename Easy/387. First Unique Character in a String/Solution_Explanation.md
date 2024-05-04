@@ -1,7 +1,11 @@
 # Beats 99.2% ✅ | Python, C++ 💻 | Easiest Approach, Clear Explanation 📕
 ## 1. Proof
 <!-- Describe your first thoughts on how to solve this problem. -->
-![image.png](https://assets.leetcode.com/users/images/c8bf4d44-10ad-45fd-8495-d1911203fe89_1707110520.8508537.png)
+### 1.1. Python3
+![image](https://github.com/KCP17/Leetcode-solutions/assets/148914885/0281c8b7-59f7-45a1-8533-0e328d6518b6)
+
+### 1.2. C++
+![image](https://github.com/KCP17/Leetcode-solutions/assets/148914885/9367372f-8a8d-4720-bece-4c727bd0be1f)
 
 ## 2. Approach
 1. Use `Counter` method on string `s` to count the number of occurrences of each character in `s`.
