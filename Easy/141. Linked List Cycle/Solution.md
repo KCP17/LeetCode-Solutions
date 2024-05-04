@@ -21,4 +21,4 @@ class Solution:
 ```
 ## Time & Space:
 * Time: $$O(N)$$
-* Space: $$O(N)$$ doesn't satisfy follow-up requirements
+* Space: $$O(N)$$ follow-up requirements not yet satisfied
