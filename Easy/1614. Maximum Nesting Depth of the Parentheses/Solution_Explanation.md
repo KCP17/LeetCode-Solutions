@@ -7,6 +7,7 @@
 ![image.png](https://assets.leetcode.com/users/images/bdd79d34-95bc-4cc7-8bd4-37cd61565bcd_1712622155.552329.png)
 
 ## 2. Code (with explanation each line)
+### 2.1. Python3
 ```python3 []
 class Solution:
     def maxDepth(self, s: str) -> int: # Stack
@@ -20,6 +21,7 @@ class Solution:
                 stack.pop() # Remember to pop "(" to mark finished counting a depth. E.g with "()()" if we don't pop it'll count the depth as 2.
         return res
 ```
+### 2.2. C++
 ```cpp []
 class Solution {
 public:
