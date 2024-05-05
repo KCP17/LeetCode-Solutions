@@ -22,7 +22,7 @@ class Solution:
             prev = slow
             slow = ori_nxt
         
-        # 2. Reorder the list (see written node on tablet)
+        # 2. Reorder the list (refer to Visualization.png)
         last_node = ListNode(0, head)
         cur_left = head # First node (left-most)
         cur_right = prev # Last node (right-most)
