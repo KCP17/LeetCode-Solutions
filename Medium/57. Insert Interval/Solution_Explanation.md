@@ -1,7 +1,7 @@
 ## 1. Efficiency
 ![image](https://github.com/KCP17/Leetcode-solutions/assets/148914885/0fef056b-e842-4a33-8561-0daf2101a9af)
 
-## 2. Code (Python3)
+## 2. Code (Python3) with explanation each line
 ```python3 []
 class Solution:
     def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
