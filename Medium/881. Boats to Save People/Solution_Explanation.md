@@ -58,4 +58,4 @@ public:
 
 - Space complexity: $$O(1)$$
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
-### Upvote if you find this solution helpful, thank you 🤍
+### Upvote [here](https://leetcode.com/problems/boats-to-save-people/solutions/5121100/beats-9894-explicit-video-explanation-visualization-simulation-python-c) if you find this solution helpful, thank you 🤍
