@@ -13,7 +13,8 @@
 - Two Pointers
 - Greedy
 ## 3. Explanation
-Link of my explanation video: https://youtu.be/KRHzbHnw1rE?si=XeZ0FYCo8mDVJo92
+_Click on this image to watch my YouTube explanation video_
+[![Click on this image to watch the YouTube explanation video](https://i.ytimg.com/vi/KRHzbHnw1rE/maxresdefault.jpg)](https://youtu.be/KRHzbHnw1rE?si=XeZ0FYCo8mDVJo92)
 
 ## 4. Code
 ### 4.1. Python3
@@ -50,7 +51,9 @@ public:
 };
 ```
 ## 5. Complexity (Explained in the video)
-- Time complexity: $$O(N*log(N) + N/2)$$ average, $$O(N*log(N) + N)$$ worst case
+- Time complexity:
+  - Average: $$O(N*log(N) + N/2)$$
+  - Worst case: $$O(N*log(N) + N)$$
 <!-- Add your time complexity here, e.g. $$O(n)$$ -->
 
 - Space complexity: $$O(1)$$
