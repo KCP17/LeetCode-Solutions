@@ -1,7 +1,7 @@
-# Beats 94.83%⌛✅| Python💻| Clear Explanation📗
+# Beats 98.28%⌛✅| Python💻| Clear Explanation📗
 
 ## 1. Proof
-![image.png](https://assets.leetcode.com/users/images/be344831-377d-44a0-91aa-b671fff81dc1_1715574865.4970956.png)
+![image.png](https://assets.leetcode.com/users/images/b5179a18-2091-46b6-95b9-d02ce41634a9_1715576530.2468176.png)
 
 ## 2. Algorithms
 - Greedy
