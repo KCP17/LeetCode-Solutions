@@ -2,9 +2,9 @@
 
 ## 1. Proof
 <!-- Describe your first thoughts on how to solve this problem. -->
-### 1. C++
+### 1.1. C++
 ![image.png](https://assets.leetcode.com/users/images/0d978a48-273d-446f-9396-1266a868ffde_1710304323.0200264.png)
-### 2. Python3
+### 1.2. Python3
 ![image.png](https://assets.leetcode.com/users/images/0249993d-a6f9-4391-8f1b-6a866c65ba75_1710304371.24554.png)
 
 ## 2. Approach - Explanation
