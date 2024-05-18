@@ -17,8 +17,9 @@
 3. At each iteration:
 i. We calculate the next number `T_next` in the sequence, which is the sum of first number `T_first`, middle number `T_mid`, and last number `T_last`.
 ii. We also reassign first, middle, last numbers so we can move on to the next iteration to find the next `T_next` (refer to the illustration below).
-![1137 N-th Tribonacci Number_.jpg](https://assets.leetcode.com/users/images/81176756-94f0-4b8e-a653-7c7fc380f3d1_1713954509.5128734.jpeg)
-4. Finally, return the last calculated number `T_next`.
+![image](https://github.com/KCP17/Leetcode-solutions/assets/148914885/bb72c1bb-06cc-4550-87e8-386bd72e85ec)
+
+5. Finally, return the last calculated number `T_next`.
 
 ## 3. Code
 
