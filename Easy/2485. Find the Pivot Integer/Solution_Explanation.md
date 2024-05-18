@@ -1,4 +1,4 @@
-# 0ms - BEATS 100% - CONSTANT TIME & SPACE 🔥🔥🔥| Python, C++ (Math🔢) | Super Easy Explanation ✅
+# 0ms - BEATS 100% - CONSTANT TIME & SPACE 🔥🔥🔥| Python, C++ (Math🔢) | SUPER EASY Explanation ✅
 
 ## 1. Proof
 <!-- Describe your first thoughts on how to solve this problem. -->
@@ -11,7 +11,9 @@
 <!-- Describe your approach to solving the problem. -->
 1. For an **Arithmetic Progression: $$a+...+b$$**, we can calculate the sum of that sequence using the formula: $$\frac{(a+b)\cdot n}{2}$$ with *a* is the first number, *b* is the last number in the sequence, and *n* is the number of numbers of that sequence.
 2. Now we want to find `x` (the pivot) and the condition is `sum_left` (sum from 1 to x) must be equal with `sum_right` (sum from x to n). So, we're going to build a formula to find `x` based on that given condition. Here is how to build that formula:
-![2485 Find the Pivot Integer.jpg](https://assets.leetcode.com/users/images/6fcb2873-1412-4f03-b8fb-aaa99a734c98_1710305323.7971067.jpeg)
+
+![image](https://github.com/KCP17/Leetcode-solutions/assets/148914885/e69fb770-a7ac-4be4-a849-e89ded87fa87)
+
 We found that `x` is the square root of sum of the sequence from 1 to n (that's interesting !!!) but this fact is not really that important is it? Because eventually, we found our formula to calculate the pivot and that's the crucial part.
 3. Finally, just return the pivot. However, what if the `x` that we calculated is not an integer? What if it's something like 5.6? That's definitely not a valid pivot right? Yeah, and that tells us the sequence does not have a pivot, so just return `-1`. In other cases where `x` is an integer then we can safely return `x` as it's a valid pivot.
 
@@ -23,6 +25,7 @@ We found that `x` is the square root of sum of the sequence from 1 to n (that's 
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 
 ## 4. Code
+
 ### 4.1. Python3
 ```python3 []
 class Solution:
@@ -30,6 +33,7 @@ class Solution:
         x = sqrt((n * (n + 1)) / 2)
         return int(x) if int(x) == x else -1
 ```
+
 ### 4.2. C++
 ``` cpp []
 class Solution {
