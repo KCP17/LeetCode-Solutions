@@ -11,5 +11,5 @@ class Solution:
 ```
 ## Note:
 My optimized solution:
-Time: $$O(2n)$$
-Space: $$O(n)$$
+- Time: $$O(2n)$$
+- Space: $$O(n)$$
