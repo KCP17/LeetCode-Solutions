@@ -18,9 +18,9 @@
 3. At each iteration:
 i. We calculate the next number `T_next` in the sequence, which is the sum of first number `T_first`, middle number `T_mid`, and last number `T_last`.
 ii. We also reassign first, middle, last numbers so we can move on to the next iteration to find the next `T_next` (refer to the illustration below).
-![image](https://github.com/KCP17/Leetcode-solutions/assets/148914885/bb72c1bb-06cc-4550-87e8-386bd72e85ec)
+![image](https://github.com/KCP17/Leetcode-solutions/assets/148914885/5c39c831-efeb-4375-8808-e60c97837cef)
 
-5. Finally, return the last calculated number `T_next`.
+4. Finally, return the last calculated number `T_next`.
 
 ## 3. Code
 
