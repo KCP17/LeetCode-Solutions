@@ -3,7 +3,8 @@
 ## 1. Proof
 <!-- Describe your first thoughts on how to solve this problem. -->
 ### 1.1. C++
-![image.png](https://assets.leetcode.com/users/images/425065fa-4026-42aa-9ec0-d892c9f41a05_1713952575.9054155.png)
+![image](https://github.com/KCP17/Leetcode-solutions/assets/148914885/e2b3c3a4-f3c2-44bd-8882-56be0d455491)
+
 ### 1.2. Python3
 ![image.png](https://assets.leetcode.com/users/images/62adfe70-cecb-466d-a39e-20bcb7f3561a_1713952550.9059045.png)
 
