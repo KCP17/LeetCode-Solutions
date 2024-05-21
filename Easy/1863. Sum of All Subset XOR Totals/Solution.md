@@ -17,5 +17,5 @@ class Solution:
 ```
 ## Note:
 Brute force (My solution):
-- Time: $$\sum_{k=1}^{n} k * C^k_n$$
-- Space: $$\sum_{k=1}^{n} C^k_n$$
+- Time: $$\sum_{k=1}^{n} k * C^k_n$$ with k from 1 to n
+- Space: $$\sum_{k=1}^{n} C^k_n$$ with k from 1 to n
