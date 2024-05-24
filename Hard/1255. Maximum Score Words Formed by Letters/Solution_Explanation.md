@@ -56,7 +56,7 @@ class Solution:
 - Time complexity: $$O(N + M + 2^N)$$ with `N = len(words)`, `M = len(letters)`
 <!-- Add your time complexity here, e.g. $$O(n)$$ -->
 
-- Space complexity: $$O(2N + M)$$ recursive  depth, HashMap, and `word_scores` array
+- Space complexity: $$O(2N + M)$$ recursive depth, HashMap, and `word_scores` array
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 
-### Upvote if you find this solution helpful, thank you 🤍
+### Upvote [here](https://leetcode.com/problems/maximum-score-words-formed-by-letters/solutions/5200731/beats-95-46-python-easy-clear-explanation) if you find this solution helpful, thank you 🤍
