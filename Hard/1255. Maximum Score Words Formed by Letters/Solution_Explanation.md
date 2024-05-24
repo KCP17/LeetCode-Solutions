@@ -4,7 +4,12 @@
 <!-- Describe your first thoughts on how to solve this problem. -->
 ![image.png](https://assets.leetcode.com/users/images/a555aa96-a18e-4330-9b1e-bc2a92722ab6_1716537603.7753105.png)
 
-## 2. Code (Python3) - with explanation each line
+## 2. Algorithms
+* Hash Table - Counting
+* Depth-First Search (Recursion)
+* Backtracking
+
+## 3. Code (Python3) - with explanation each line
 ```python3 []
 class Solution:
     def maxScoreWords(self, words: List[str], letters: List[str], score: List[int]) -> int:        
@@ -52,7 +57,7 @@ class Solution:
         return self.res # Return final result
 ```
 
-## 3. Complexity
+## 4. Complexity
 - Time complexity: $$O(N + M + 2^N)$$ with `N = len(words)`, `M = len(letters)`
 <!-- Add your time complexity here, e.g. $$O(n)$$ -->
 
