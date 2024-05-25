@@ -8,7 +8,7 @@
 * Hash Set
 * Backtracking
 
-## 3. Code (with explanation each line)
+## 3. Code (Python3) - with explanation each line
 ```python3 []
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> List[str]:
