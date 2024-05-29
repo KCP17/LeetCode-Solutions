@@ -17,5 +17,5 @@ class Solution:
 ```
 ## Note:
 Converting - little bit of cheating (My solution):
-- Time: $$O(n + log2(n))$$
+- Time: $$O(n + log_{2}(n))$$
 - Space: $$O(1)$$
