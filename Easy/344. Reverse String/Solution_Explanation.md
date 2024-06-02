@@ -2,11 +2,11 @@
 
 ## 1. Proof
 <!-- Describe your first thoughts on how to solve this problem. -->
-### 1.1. C++
-![image.png](https://assets.leetcode.com/users/images/1f65d95e-cec0-4dc8-b47e-af6a98755d5f_1717318697.731664.png)
-
-### 1.2. Python3
+### 1.1. Python3
 ![image.png](https://assets.leetcode.com/users/images/968c4623-2163-42cc-909f-b95a3765b7a9_1717318739.1937811.png)
+
+### 1.2. C++
+![image.png](https://assets.leetcode.com/users/images/1f65d95e-cec0-4dc8-b47e-af6a98755d5f_1717318697.731664.png)
 
 ## 2. Algorithms
 * Two pointers
