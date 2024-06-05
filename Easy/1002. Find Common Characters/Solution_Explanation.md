@@ -38,4 +38,4 @@ class Solution:
 - Space complexity: $$O(2N)$$ - 2 HashMaps
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 
-### Upvote if you find this solution helpful, thank you 🤍
+### Upvote [here](https://leetcode.com/problems/find-common-characters/solutions/5261310/beats-97-65-python-clear-explanation) if you find this solution helpful, thank you 🤍
