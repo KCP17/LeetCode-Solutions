@@ -16,6 +16,7 @@ class Solution:
         cur = head.next
         i = 0
         first_CritNode, prev_CritNode = None, None
+        
         while cur.next:
             if (cur.val < prev.val and cur.val < cur.next.val) or (cur.val > prev.val and cur.val > cur.next.val): # Confirmed critical point
                 if first_CritNode is None:
@@ -34,5 +35,5 @@ class Solution:
 
 ## Note:
 [ Time taken: 16 m 1 s ]
-- Time: O(n)
-- Space: O(1)
+- Time: $$O(n)$$
+- Space: $$O(1)$$
