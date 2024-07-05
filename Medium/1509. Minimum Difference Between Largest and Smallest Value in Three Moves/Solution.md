@@ -3,7 +3,7 @@
 
 ## Code
 ### Python3
-```python []
+```python3 []
 class Solution:
     def minDifference(self, nums: List[int]) -> int:
         nums.sort()
