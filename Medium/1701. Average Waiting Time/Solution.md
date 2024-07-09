@@ -1,7 +1,7 @@
 ## 1. Efficiency
-## 1.1. Python3
+### 1.1. Python3
 ![image](https://github.com/KCP17/LeetCode-Solutions/assets/148914885/1f321fca-6e87-470a-9eaa-67ddf5c99586)
-## 1.2. C++
+### 1.2. C++
 ![image](https://github.com/KCP17/LeetCode-Solutions/assets/148914885/9ee01386-bfa6-4a98-b7c9-00b3aa6bd8af)
 
 ## 2. Code
