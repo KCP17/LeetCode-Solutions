@@ -1,5 +1,4 @@
-## 1. Efficiency
-### 1.1. Python3
+## 1. Efficiency (Python3)
 ![image](https://github.com/user-attachments/assets/6a29083c-3335-4477-8870-dbb996fdfd27)
 
 ## 2. Code (Python3)
