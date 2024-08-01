@@ -22,4 +22,4 @@ class Solution:
 - Time complexity: $$O(N)$$
 - Space complexity: $$O(1)$$
 
-### Upvote if you find this solution helpful, thank you 🤍
+### Upvote [here](https://leetcode.com/problems/number-of-senior-citizens/solutions/5569835/beats-95-58-python-super-easy-solution) if you find this solution helpful, thank you 🤍
