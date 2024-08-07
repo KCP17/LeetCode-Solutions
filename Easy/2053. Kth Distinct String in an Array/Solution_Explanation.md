@@ -11,13 +11,13 @@
 ```python3 []
 class Solution:
     def kthDistinct(self, arr: List[str], k: int) -> str:
-        freq_map = Counter(arr)
+        freq_map = Counter(arr) # a Counting HashMap that maps each letter to its frequency
         for s in arr:
-            if freq_map[s] == 1:
-                k -= 1
-                if k == 0:
-                    return s
-        return ""
+            if freq_map[s] == 1: # If a letter appears only once (aka it has the frequency of 1)
+                k -= 1 # Decrement `k` until..
+                if k == 0: # `k` reaches 0, means this is the Kth appear-once letter
+                    return s # Return that letter
+        return "" # If no letter had been returned, then return an empty string
 ```
 
 ## 4. Complexity
