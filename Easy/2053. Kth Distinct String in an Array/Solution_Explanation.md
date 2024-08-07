@@ -24,4 +24,4 @@ class Solution:
 - Time complexity: $$O(n)$$
 - Space complexity: $$O(n)$$
 
-### Upvote if you find this solution helpful, thank you 🤍
+### Upvote [here](https://leetcode.com/problems/kth-distinct-string-in-an-array/solutions/5602876/beats-98-27-python-c-super-easy-clear-explanation) if you find this solution helpful, thank you 🤍
