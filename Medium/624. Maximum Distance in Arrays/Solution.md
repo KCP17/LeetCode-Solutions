@@ -29,6 +29,7 @@ class Solution:
 
 ## 3. Note:
 [ Time taken: 15 m 3 s ]
+
 Greedy (My solution):
 - Time: $$O(n)$$
 - Space: $$O(1)$$
