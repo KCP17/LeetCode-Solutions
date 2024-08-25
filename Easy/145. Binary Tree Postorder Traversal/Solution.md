@@ -24,6 +24,6 @@ class Solution:
 ```
 
 ## 3. Note:
-DFS (My solution) - has not meet follow-up requirements yet:
+DFS (My solution) - has not met follow-up requirements yet:
 - Time: $$O(n)$$
 - Space: $$O(n)$$
